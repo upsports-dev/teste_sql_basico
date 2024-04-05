@@ -1,4 +1,4 @@
-# Teste de SQL Básico
+# UPBET - Teste de SQL Básico
 
 Este documento contém um teste básico de SQL destinado a avaliar conhecimentos em comandos e operações SQL comuns, como `SELECT`, `INNER JOIN`, entre outros.
 
